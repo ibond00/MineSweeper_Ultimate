@@ -1,1 +1,1 @@
-# MineSweeper_Ultimate
+Created by Artemiy Miluchikhin and Ivan Bondarev
